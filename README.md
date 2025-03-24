@@ -2,6 +2,8 @@
 
 A modern React application for tracking and exploring cities around the world. Worldwise allows users to keep track of cities they've visited and want to visit, with an interactive map interface and detailed city information.
 
+![screenshot of the repository homepage](./public/screenshot_homepage.png)
+
 ## Features ✨
 
 - 🌐 Interactive map interface for city selection with leaflet API
@@ -17,6 +19,8 @@ A modern React application for tracking and exploring cities around the world. W
 - Context API for state management
 - CSS Modules for styling
 - Lazy loading for optimized performance
+
+![screenshot of the repository app](./public/screenshot_app.png)
 
 ## Project Structure 📁
 
@@ -47,10 +51,16 @@ npm install
 3. Start the development server:
 
 ```bash
+npm run server
+```
+
+4. Start vite:
+
+```bash
 npm run dev
 ```
 
-4. Open your browser and navigate to `http://localhost:5173`
+5. Open your browser and navigate to `http://localhost:5173`
 
 ## Features in Detail 📋
 
