@@ -35,6 +35,30 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Helsingborg",
+      "country": "Sweden",
+      "emoji": "🇸🇪",
+      "date": "2025-04-14T10:26:10.973Z",
+      "notes": "Home",
+      "position": {
+        "lat": "56.0413631715153",
+        "lng": "12.70843505859375"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Copenhagen",
+      "country": "Denmark",
+      "emoji": "🇩🇰",
+      "date": "2025-04-14T10:26:19.613Z",
+      "notes": "Nice weekend",
+      "position": {
+        "lat": "55.687649393415086",
+        "lng": "12.586212158203125"
+      },
+      "id": 98443199
     }
   ]
 }
